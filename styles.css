@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    background-color: #c3b192;
+}
+.storename{
+display:flex;
+justify-content: center;
+color:white;
+font-family:Snell Roundhand, cursive;
+}
+
+img{
+    width:200px;
+    display: flex;
+    justify-content:center;
+    border:solid;
+    padding:5px;
+    color:white;
+}
+.lashprice {
+   color:white;
+}
+
+.menuitem
+{ 
+ display:flex;
+justify-content:center;
+padding:10px;
+color: white;
+border:solid;
+}
+
+.align {
+ display: flex;
+justify-content:center;}
+
+.glue {
+color:white;}
